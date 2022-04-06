@@ -5,7 +5,7 @@
 
 ## About The Project: BlockChain Marketplace
 
-BlockChain marketplace was developed in order to better understand blockchain principles.
+BlockChain marketplace was developed in order to better understand blockchain principles. This marketplace app was developed while doing a tutorial.
 
 <!-- GETTING STARTED -->
 
