@@ -31,13 +31,6 @@ Install npm dependencies
 ```sh
 npm install
 ```
-
-Install truffle
-
-```sh
-npm install -g truffle
-```
-
 Check truffle version
 
 ```sh
@@ -47,7 +40,7 @@ truffle version
 If truffle is not recognized use the following command
 
 ```sh
-./node_modules/.bin/truffle init
+./node_modules/.bin/truffle version
 ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
